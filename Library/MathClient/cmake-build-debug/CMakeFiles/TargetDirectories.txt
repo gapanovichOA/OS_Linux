@@ -1,0 +1,3 @@
+/home/olga/CLionProjects/Library/MathClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/olga/CLionProjects/Library/MathClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/olga/CLionProjects/Library/MathClient/cmake-build-debug/CMakeFiles/MathClient.dir

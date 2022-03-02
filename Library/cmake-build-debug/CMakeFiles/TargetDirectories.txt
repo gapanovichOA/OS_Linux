@@ -1,0 +1,11 @@
+/home/olga/CLionProjects/Library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/olga/CLionProjects/Library/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/olga/CLionProjects/Library/cmake-build-debug/MathLibrary/CMakeFiles/edit_cache.dir
+/home/olga/CLionProjects/Library/cmake-build-debug/MathLibrary/CMakeFiles/rebuild_cache.dir
+/home/olga/CLionProjects/Library/cmake-build-debug/MathLibrary/CMakeFiles/MathLibrary.dir
+/home/olga/CLionProjects/Library/cmake-build-debug/Vector/CMakeFiles/edit_cache.dir
+/home/olga/CLionProjects/Library/cmake-build-debug/Vector/CMakeFiles/rebuild_cache.dir
+/home/olga/CLionProjects/Library/cmake-build-debug/Vector/CMakeFiles/Vector.dir
+/home/olga/CLionProjects/Library/cmake-build-debug/MathClient/CMakeFiles/rebuild_cache.dir
+/home/olga/CLionProjects/Library/cmake-build-debug/MathClient/CMakeFiles/edit_cache.dir
+/home/olga/CLionProjects/Library/cmake-build-debug/MathClient/CMakeFiles/MathClient.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+1	1917	1646149580802038849	MathClient/CMakeFiles/MathClient.dir/main.cpp.o	bd14bd61e713b979
+0	66	1646149694450518652	build.ninja	51f0e8fcac1c6572
+0	967	1646149668650415676	MathLibrary/CMakeFiles/MathLibrary.dir/MathLibrary.cpp.o	8921314cfcdc3364
+1938	2115	1646149581006039775	Vector/libVector.so	af794834ec574b91
+1266	1286	1646149337608726931	MathLibrary/libMathLibrary.a	da05da3c7d5f9297
+1	1938	1646149580834038995	Vector/CMakeFiles/Vector.dir/Vector.cpp.o	1aca87dd8df17289
+1	16	1646149702406549757	MathLibrary/libMathLibrary.a	da05da3c7d5f9297
+17	178	1646149702566550379	MathClient/MathClient	7b56ace4fef8108c

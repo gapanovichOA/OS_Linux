@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.1"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "MathLibrary",
+					"jsonFile" : "directory-MathLibrary-Debug-90055a26b6d310a9f430.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "MathLibrary",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Vector",
+					"jsonFile" : "directory-Vector-Debug-2f2608302215ed250a99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Vector",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "MathClient",
+					"jsonFile" : "directory-MathClient-Debug-5e81bd01b36661b330e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "MathClient",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Library"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "MathLibrary",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Vector",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "MathClient",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "MathClient::@9746aea10b48f1004c16",
+					"jsonFile" : "target-MathClient-Debug-e71a82956de8a23932f2.json",
+					"name" : "MathClient",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MathLibrary::@dbd57d2bd78d9e834048",
+					"jsonFile" : "target-MathLibrary-Debug-a79a9cd1aa160f7251a8.json",
+					"name" : "MathLibrary",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Vector::@711a2c0d59b1c1c6a0e9",
+					"jsonFile" : "target-Vector-Debug-dad91a0af49bf14cecb0.json",
+					"name" : "Vector",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/olga/CLionProjects/Library/cmake-build-debug",
+		"source" : "/home/olga/CLionProjects/Library"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
