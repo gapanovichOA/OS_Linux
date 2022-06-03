@@ -1,0 +1,3 @@
+/home/olga/CLionProjects/Pipe/S/cmake-build-debug/CMakeFiles/S.dir
+/home/olga/CLionProjects/Pipe/S/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/olga/CLionProjects/Pipe/S/cmake-build-debug/CMakeFiles/rebuild_cache.dir
